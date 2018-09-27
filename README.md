@@ -24,6 +24,7 @@ You can visit http://13.209.156.161/ for the website deployed.
 
 1. Run `sudo apt-get update` to update packages
 2. Run `sudo apt-get upgrade` to install newest versions of packages
+3. Run `sudo apt-get dist-upgrade` to set for future updates
 
 
 ## Step 4: Change the SSH port from 22 to 2200
